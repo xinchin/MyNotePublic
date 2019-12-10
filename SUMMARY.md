@@ -8,3 +8,4 @@
 
 ## Laravel 雜記
 * [OAuth 2.0 Laravel Passport 密碼模式](Laravel/1575970777251.md)
+* [](Laravel/1575970951361.md)
