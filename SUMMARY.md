@@ -11,3 +11,4 @@
 * [API 認證](Laravel/1575972724526.md)
 * [OAuth 2.0 Laravel Passport 密碼模式](Laravel/1575970777251.md)
 * [Whoops](Laravel/1575970951361.md)
+* [socialite](Laravel/1575973354158.md)
