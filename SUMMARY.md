@@ -20,6 +20,7 @@
 ## Ansible
 
 * [Ansible 安裝及基本操作](ansible/1576119216647.md)
+* [Ansible 雜記](ansible/1576127485089.md)
 
 ## Linux
 
