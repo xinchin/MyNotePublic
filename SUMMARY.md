@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [尼爾神的研究速記](README.md)
 
 ## Laravel
 
@@ -24,9 +24,6 @@
 ## Daily
 
 * [201912](daily/201912.md)
-
-------
-
-* [Test](test.md)
-* [MyNotePublic](readme.md)
+* [Test](daily/test.md)
+* [MyNotePublic](daily/mynotepublic.md)
 
