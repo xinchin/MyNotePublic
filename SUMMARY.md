@@ -1,5 +1,5 @@
 # Table of contents
-
+* [Test](TEST.md)
 * [MyNotePublic](README.md)
 
 ## Daily
