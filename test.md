@@ -8,5 +8,7 @@
 
 ::: details This is a details block, which does not work in IE / Edge :::
 
-:tada: :100:
+:tada: 
+
+:100:
 
