@@ -1,6 +1,6 @@
 # Test
 
-::: tip This is a tip ::: 
+::: tip This is a tip :::
 
 ::: warning This is a warning :::
 
@@ -8,7 +8,7 @@
 
 ::: details This is a details block, which does not work in IE / Edge :::
 
-:tada: 
+:tada:
 
 :100:
 
