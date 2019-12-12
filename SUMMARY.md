@@ -1,6 +1,8 @@
 # Table of contents
-* [Test](TEST.md)
-* [MyNotePublic](README.md)
+
+* [Introduction](README.md)
+* [Test](test.md)
+* [MyNotePublic](readme.md)
 
 ## Daily
 
@@ -16,4 +18,6 @@
 * [facade/ignition](laravel-za-ji/1576046435996.md)
 
 ## Ansible
-* [index](Ansible/1576119216647.md)
+
+* [index](ansible/1576119216647.md)
+
