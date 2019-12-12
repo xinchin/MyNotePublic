@@ -1,6 +1,6 @@
 # Test
 
-::: tip This is a tip ::: 😀 
+::: tip This is a tip ::: 
 
 ::: warning This is a warning :::
 
