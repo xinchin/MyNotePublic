@@ -1,4 +1,9 @@
-# Introduction
+# 尼爾神的研究速記
 
-MyNotePublic
+- Ansible
+- Linux
+- Larave
 
+
+## github
+> https://github.com/xinchin/MyNotePublic.git
