@@ -4,7 +4,6 @@
 
 * [前端技術](.)
   * [Webpack](frontend/1576599441086.md)
-  
 * [Laravel](.)
   * [Web 認證](laravel/1575971981958.md)
   * [API 認證](laravel/1575972724526.md)
@@ -12,9 +11,7 @@
   * [Whoops](laravel/1575970951361.md)
   * [socialite](laravel/1575973354158.md)
   * [facade/ignition](laravel/1576046435996.md)
-
 * [Ansible](.)
-
   * [Ansible 安裝及基本操作](ansible/1576119216647.md)
   * [Ansible 速記](ansible/1576127485089.md)
 
