@@ -122,6 +122,37 @@ module.exports = {
 
 ```
 
+## style-loader
 
+**Reference**
 
+https://webpack.docschina.org/loaders/style-loader/
 
+https://webpack.docschina.org/loaders/css-loader/
+
+**install**
+
+```
+npm install style-loader --save-dev
+npm install --save-dev css-loader
+```
+
+**Use**
+
+```
+import css from 'file.css';
+```
+
+```
+module.exports = {
+  module: {
+    rules: [
+      {
+        test: /\.css$/,
+        use: ['style-loader', 'css-loader'],
+        //use: [{ loader: 'style-loader' }, { loader: 'css-loader' }],  //or
+      },
+    ],
+  },
+};
+```
