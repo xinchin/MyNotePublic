@@ -20,6 +20,7 @@
   * [Whoops](laravel/1575970951361.md)
   * [socialite](laravel/1575973354158.md)
   * [facade/ignition](laravel/1576046435996.md)
+  * [vinkla/hashids](laravel/1576821472325.md)
 
 * [Ansible](.)
   * [Ansible 安裝及基本操作](ansible/1576119216647.md)
