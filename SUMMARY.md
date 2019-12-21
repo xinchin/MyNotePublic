@@ -8,6 +8,7 @@
   * [常用套件](frontend/1576764195717.md)
   * [popper.js](frontend/1576660260404.md)
   * [moment.js](frontend/1576677110111.md)
+  * [常見套件](frontend/1576764195717.md)
 
 * [Vue.js](.)
   * [基礎](Vue/1576688510734.md)
@@ -22,6 +23,7 @@
   * [Whoops](laravel/1575970951361.md)
   * [socialite](laravel/1575973354158.md)
   * [facade/ignition](laravel/1576046435996.md)
+  * [vinkla/hashids](laravel/1576821472325.md)
 
 * [Ansible](.)
   * [Ansible 安裝及基本操作](ansible/1576119216647.md)
