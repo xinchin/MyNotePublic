@@ -16,6 +16,8 @@
 * [Nuxt.js](.)
   * [概述](Nuxt.js/1576640560968.md)
 
+* [Node.js](.)
+  * [速記](nodejs/1576934647928.md)
 * [Laravel](.)
   * [Web 認證](laravel/1575971981958.md)
   * [API 認證](laravel/1575972724526.md)
