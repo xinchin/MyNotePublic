@@ -20,7 +20,7 @@
   * [速記](nodejs/1576934647928.md)
   * [pm2](nodejs/1576936875413.md)
   * [express](nodejs/1576939614515.md)
-  * [mysql](nodeje/1576940647185.md)
+  * [mysql](nodejs/1576940647185.md)
 
 * [Laravel](.)
   * [Web 認證](laravel/1575971981958.md)
