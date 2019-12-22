@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 
+* [雜記、速記](note/1576988134774.md)
+* 
 * [Frontend](.)
   * [概述](frontend/1576640433941.md) 
   * [Webpack](frontend/1576599441086.md)
