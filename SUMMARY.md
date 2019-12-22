@@ -40,7 +40,4 @@
 
 * [Daily](.)
   * [201912](daily/201912.md)
-  * [Test](daily/test/README.md)
-    * [Untitled](daily/test/untitled.md)
-  * [MyNotePublic](daily/mynotepublic.md)
 
