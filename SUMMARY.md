@@ -8,7 +8,6 @@
   * [常用套件](frontend/1576764195717.md)
   * [popper.js](frontend/1576660260404.md)
   * [moment.js](frontend/1576677110111.md)
-  * [常用套件](frontend/1576764195717.md)
 
 * [Vue.js](.)
   * [基礎](Vue/1576688510734.md)
