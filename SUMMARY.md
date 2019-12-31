@@ -32,6 +32,7 @@
   * [laravel-breadcrumbs](laravel/1577196703300.md)
   * [laravelcollective/html](laravel/1577281732794.md)
   * [barryvdh/laravel-cors](laravel/1577778507778.md)
+  * [spatie/laravel-cors](laravel/1577780359517.md)
 
 * [Ansible](.)
   * [Ansible 安裝及基本操作](ansible/1576119216647.md)
