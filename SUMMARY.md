@@ -33,6 +33,7 @@
   * [laravelcollective/html](laravel/1577281732794.md)
   * [barryvdh/laravel-cors](laravel/1577778507778.md)
   * [spatie/laravel-cors](laravel/1577780359517.md)
+  * [fideloper/proxy](laravel/1577788133822.md)
 
 * [Ansible](.)
   * [Ansible 安裝及基本操作](ansible/1576119216647.md)
