@@ -2,7 +2,9 @@
 
 * [Introduction](README.md)
 
-* [雜記、速記](note/1576988134774.md)
+* [雜記、速記](.)
+  * [待整理](note/1576988134774.md)
+  * [Troubleshooting](note/1577878291406.md)
   
 * [Frontend](.)
   * [概述](frontend/1576640433941.md) 
