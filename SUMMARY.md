@@ -38,6 +38,7 @@
   * [spatie/laravel-cors](laravel/1577780359517.md)
   * [fideloper/proxy](laravel/1577788133822.md)
   * [spatie/laravel-query-builder](laravel/1577934935393.md)
+  * [tymon/jwt-auth](laravel/1578280930834.md)
 
 * [Ansible](.)
   * [Ansible 安裝及基本操作](ansible/1576119216647.md)
