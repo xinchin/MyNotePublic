@@ -7,6 +7,7 @@
   * [Troubleshooting](note/1577878291406.md)
   * [Gitlab on Docker](note/1578039216171.md)
   * [VSCode](note/1578284575424.md)
+  * [Install gitlab runner](note/1579233204715.md)
   
 * [Frontend](.)
   * [概述](frontend/1576640433941.md) 
