@@ -8,3 +8,5 @@
 
 > [https://github.com/xinchin/MyNotePublic.git](https://github.com/xinchin/MyNotePublic.git)
 
+{% file src=".gitbook/assets/xiang-jian-ni-pian-wei-qu-someday-or-one-day-ed-.mp3" %}
+
